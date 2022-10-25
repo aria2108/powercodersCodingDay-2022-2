@@ -38,6 +38,7 @@ body {
 
 section {
   margin-bottom: 1.5rem;
+  display: grid;
 }
 
 main {
